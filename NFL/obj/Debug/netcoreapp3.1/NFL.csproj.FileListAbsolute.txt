@@ -1,0 +1,13 @@
+C:\Users\Law\source\repos\NFL\bin\Debug\netcoreapp3.1\NFL.exe
+C:\Users\Law\source\repos\NFL\bin\Debug\netcoreapp3.1\NFL.deps.json
+C:\Users\Law\source\repos\NFL\bin\Debug\netcoreapp3.1\NFL.runtimeconfig.json
+C:\Users\Law\source\repos\NFL\bin\Debug\netcoreapp3.1\NFL.runtimeconfig.dev.json
+C:\Users\Law\source\repos\NFL\bin\Debug\netcoreapp3.1\NFL.dll
+C:\Users\Law\source\repos\NFL\bin\Debug\netcoreapp3.1\NFL.pdb
+C:\Users\Law\source\repos\NFL\obj\Debug\netcoreapp3.1\NFL.csprojAssemblyReference.cache
+C:\Users\Law\source\repos\NFL\obj\Debug\netcoreapp3.1\NFL.AssemblyInfoInputs.cache
+C:\Users\Law\source\repos\NFL\obj\Debug\netcoreapp3.1\NFL.AssemblyInfo.cs
+C:\Users\Law\source\repos\NFL\obj\Debug\netcoreapp3.1\NFL.csproj.CoreCompileInputs.cache
+C:\Users\Law\source\repos\NFL\obj\Debug\netcoreapp3.1\NFL.dll
+C:\Users\Law\source\repos\NFL\obj\Debug\netcoreapp3.1\NFL.pdb
+C:\Users\Law\source\repos\NFL\obj\Debug\netcoreapp3.1\NFL.genruntimeconfig.cache
